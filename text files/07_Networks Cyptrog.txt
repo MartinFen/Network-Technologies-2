@@ -1,0 +1,3 @@
+in wifi Encryption types
+AES= Advance encryption Standard which means to use the same cryptography key for all data encryption.
+TKIP= Temporary Key for use for a short time.

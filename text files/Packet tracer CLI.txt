@@ -1,0 +1,300 @@
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gwha.gmit.ie
+
+
+    www.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : www.gmit.ie
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 77780
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gwha.gmit.ie
+
+
+    wpad
+    ----------------------------------------
+    Name does not exist.
+
+
+    learnonline.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : learnonline.gmit.ie
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 77778
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gwha.gmit.ie
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.digicert.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 7071
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wac.edgecastcdn.net
+
+
+    moodlearchive.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : moodlearchive.gmit.ie
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 77780
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 193.1.56.31
+
+
+    library.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : library.gmit.ie
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 77780
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 10.1.241.52
+
+
+    ced.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : ced.gmit.ie
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 77780
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gwha.gmit.ie
+
+
+    gwactdir02.gmadtree.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : GWACTDIR02.gmadtree.gmit.ie
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 365
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 10.6.0.123
+
+
+    gwstorage.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : GWSTORAGE.GMIT.IE
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 77525
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 10.6.0.158
+
+
+    gwactdir01.gmadtree.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : gwactdir01.gmadtree.gmit.ie
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1912
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 10.6.0.122
+
+
+    localhost
+    ----------------------------------------
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    localhost
+    ----------------------------------------
+    No records of type AAAA
+
+
+    0-site.ebrary.com.library.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : 0-site.ebrary.com.library.gmit.ie
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 77780
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : library.gmit.ie
+
+
+
+C:\Users\g00291266>ipconfig/flushdns
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+
+C:\Users\g00291266>ipconfig/displaydns
+
+Windows IP Configuration
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    localhost
+    ----------------------------------------
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    localhost
+    ----------------------------------------
+    No records of type AAAA
+
+
+
+C:\Users\g00291266>net stop dns
+The service name is invalid.
+
+More help is available by typing NET HELPMSG 2185.
+
+
+C:\Users\g00291266>net stop
+The syntax of this command is:
+
+NET STOP
+service
+
+
+C:\Users\g00291266>ipconfig/displaydns
+
+Windows IP Configuration
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : localhost
+
+
+    wpad
+    ----------------------------------------
+    Name does not exist.
+
+
+    gwactdir01.gmadtree.gmit.ie
+    ----------------------------------------
+    Record Name . . . . . : gwactdir01.gmadtree.gmit.ie
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3526
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 10.6.0.122
+
+
+    localhost
+    ----------------------------------------
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : localhost
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86400
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    localhost
+    ----------------------------------------
+    No records of type AAAA
+
+
+
+C:\Users\g00291266>

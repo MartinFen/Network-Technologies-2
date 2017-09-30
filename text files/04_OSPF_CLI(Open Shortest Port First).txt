@@ -1,0 +1,23 @@
+enable
+conf t
+interface fa0/0
+router ospf 1
+network 192.168.1.0 0.0.0.255 area 0
+EXIT
+
+interface se2/0
+bandwidth 1544
+router ospf 1
+network 192.168.2.0 0.0.0.255 area 0
+EXIT
+
+interface se3/0
+bandwidth 256
+router ospf 1
+network 192.168.3.0 0.0.0.255 area 0
+EXIT
+EXIT
+exit
+
+show interface FA0/0
+show ip ospf interface 

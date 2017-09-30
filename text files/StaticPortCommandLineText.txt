@@ -1,0 +1,8 @@
+show ip route
+
+enable 
+config t
+ip route 0.0.0.0 0.0.0.0 192.168.2.2
+exit
+exit
+
